@@ -8,6 +8,7 @@ Computes Resistance (R) using resistivity, length, and area: R=(rho*L)/A
 Computes Inductance (L) using reactance and frequency: XL/2*pi*f
 Computes Capacitance (C) using plate area and distance: E0*A/D
 Provides a user-friendly interface for input and output.
+
 **Usage**
 
 Run the Python script.
